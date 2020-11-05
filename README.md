@@ -10,6 +10,7 @@
   - Web Scraping
   - Text Mining
   - Web applications with Shiny
+  - Creating maps
 - Storytelling with data :traffic_light:
 - Education :bulb:
 - Climate Change :earth_africa:
