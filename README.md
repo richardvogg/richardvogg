@@ -14,3 +14,6 @@
 - Storytelling with data :traffic_light:
 - Education :bulb:
 - Climate Change :earth_africa:
+
+
+Check my [blog](https://r-vogg-blog.netlify.app/).
