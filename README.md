@@ -16,4 +16,4 @@
 - Climate Change :earth_africa:
 
 
-Check my [blog](https://r-vogg-blog.netlify.app/).
+I write about R in the [R-Vogg-Blog](https://r-vogg-blog.netlify.app/).
