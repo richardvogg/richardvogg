@@ -2,6 +2,8 @@
 
 #### Interests
 
+- Deep Learning:
+  - Multi-Object Tracking :monkey:
 - #rstats :computer:
   - Data Manipulation
   - Data Visualization
