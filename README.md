@@ -4,13 +4,13 @@
 
 - Deep Learning:
   - Multi-Object Tracking :monkey:
+  - Animal Behavior in the wild
 - #rstats :computer:
+  - I write about R in the [R-Vogg-Blog](https://r-vogg-blog.netlify.app/).
   - Data Manipulation
   - Data Visualization
   - Statistical Modelling
   - Machine Learning
-  - Web Scraping
-  - Text Mining
   - Web applications with Shiny
   - Creating maps
   - Some of my favorite R packages:
@@ -32,4 +32,4 @@
 - Climate Change :earth_africa:
 
 
-I write about R in the [R-Vogg-Blog](https://r-vogg-blog.netlify.app/).
+
